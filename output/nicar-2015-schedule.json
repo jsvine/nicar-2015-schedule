@@ -1449,7 +1449,7 @@
         "description": "Once you know the basics of how to scrape and ingest data in Python, you're probably itching to use it to for data analysis projects. In this hands-on workshop, we'll get you started with IPython Notebooks and pandas to do the kind of basic manipulations with code that you're used to in Excel and then walk you through the kind of analysis and manipulation you can't do in Excel.\n\nTo get the most out of this class: You should be comfortable on the command line and with the basics of the Python interpreter and its object types."
     }, 
     {
-        "speakers": null, 
+        "speakers": "Derek Willis, Ryan Murphy, Sarah Bryner", 
         "room": "International A", 
         "title": "Elections, what are they good for?", 
         "time": "10:10 a.m. - 11:10 a.m.", 
