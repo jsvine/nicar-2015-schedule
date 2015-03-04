@@ -9,7 +9,7 @@ import sys
 import re
 
 SCHEDULE_URL = "http://www.ire.org/events-and-training/event/1494/"
-DATES = [ "2015-03-04", "2015-03-05", "2015-03-06", "2015-03-07", "2015-03-09" ]
+DATES = [ "2015-03-04", "2015-03-05", "2015-03-06", "2015-03-07", "2015-03-08" ]
 
 def fix_encoding(string):
     """
