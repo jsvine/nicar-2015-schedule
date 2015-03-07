@@ -4,7 +4,7 @@ This repository contains the [NICAR 2015 conference schedule](http://www.ire.org
 
 ## Get the data
 
-*Last updated March 6, 2015 @ 8am  Eastern*
+*Last updated March 7, 2015 @ 8am  Eastern*
 
 - [CSV schedule](output/nicar-2015-schedule.csv?raw=true)
 - [JSON schedule](output/nicar-2015-schedule.json?raw=true)
